@@ -9,8 +9,8 @@ import NoInternet from '../NoInternet'
 
 class Login extends Component {
   state = {
-    username: '',
-    password: '',
+    username: 'harshith1629',
+    password: 'Am1629',
     displayError: false,
     errorMsg: '',
     noInternet: false,
