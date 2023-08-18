@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bhr-moviesclone/static/css/main.4cc62423.chunk.css",
+    "main.js": "/bhr-moviesclone/static/js/main.5d8078f0.chunk.js",
+    "main.js.map": "/bhr-moviesclone/static/js/main.5d8078f0.chunk.js.map",
+    "runtime-main.js": "/bhr-moviesclone/static/js/runtime-main.38d0dcd6.js",
+    "runtime-main.js.map": "/bhr-moviesclone/static/js/runtime-main.38d0dcd6.js.map",
+    "static/css/2.e47c6dba.chunk.css": "/bhr-moviesclone/static/css/2.e47c6dba.chunk.css",
+    "static/js/2.b7556114.chunk.js": "/bhr-moviesclone/static/js/2.b7556114.chunk.js",
+    "static/js/2.b7556114.chunk.js.map": "/bhr-moviesclone/static/js/2.b7556114.chunk.js.map",
+    "index.html": "/bhr-moviesclone/index.html",
+    "static/css/2.e47c6dba.chunk.css.map": "/bhr-moviesclone/static/css/2.e47c6dba.chunk.css.map",
+    "static/css/main.4cc62423.chunk.css.map": "/bhr-moviesclone/static/css/main.4cc62423.chunk.css.map",
+    "static/js/2.b7556114.chunk.js.LICENSE.txt": "/bhr-moviesclone/static/js/2.b7556114.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/bhr-moviesclone/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38d0dcd6.js",
+    "static/css/2.e47c6dba.chunk.css",
+    "static/js/2.b7556114.chunk.js",
+    "static/css/main.4cc62423.chunk.css",
+    "static/js/main.5d8078f0.chunk.js"
+  ]
+}
