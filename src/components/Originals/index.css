@@ -1,0 +1,25 @@
+.original-lv,
+.original-fv {
+  height: 220px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 14px;
+}
+.mobile-view {
+  display: none;
+}
+@media (max-width: 768px) {
+  .large-View {
+    display: none;
+  }
+  .mobile-view {
+    display: unset;
+  }
+  .original-lv,
+  .original-fv {
+    height: 120px;
+  }
+}

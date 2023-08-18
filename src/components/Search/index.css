@@ -1,0 +1,17 @@
+.search-fv,
+.search-lv {
+  height: 500px;
+  /* background-color: black; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 14px;
+  margin: 10px 100px 0px 100px;
+}
+@media (max-width: 768px) {
+  .search-fv,
+  .search-lv {
+    margin: 12px;
+  }
+}

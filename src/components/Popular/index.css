@@ -1,0 +1,25 @@
+.popular-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 25px;
+  margin-top: 15px;
+}
+
+.popular-lv,
+.popular-fv {
+  height: 500px;
+  /* background-color: black; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 14px;
+  margin: 10px 100px 0px 100px;
+}
+@media (max-width: 768px) {
+  .popular-lv,
+  .popular-fv {
+    margin: 12px;
+  }
+}
